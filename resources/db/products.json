@@ -1,0 +1,126 @@
+[
+  {
+    "products": [
+      {
+        "id": 1,
+        "name": "Grapes",
+        "price": 1.5,
+        "image": "001-grapes.png"
+      },
+      {
+        "id": 2,
+        "name": "Avocado",
+        "price": 3,
+        "image": "002-avocado.png"
+      },
+      {
+        "id": 3,
+        "name": "Pear",
+        "price": 1,
+        "image": "003-pear.png"
+      },
+      {
+        "id": 4,
+        "name": "Bell pepper",
+        "price": 0.8,
+        "image": "004-bell-pepper.png"
+      },
+      {
+        "id": 5,
+        "name": "Melon",
+        "price": 1.2,
+        "image": "005-melon-1.png"
+      },
+      {
+        "id": 6,
+        "name": "Lemon",
+        "price": 0.6,
+        "image": "006-lemon.png"
+      },
+      {
+        "id": 7,
+        "name": "Tomato",
+        "price": 1,
+        "image": "007-tomato-1.png"
+      },
+      {
+        "id": 8,
+        "name": "Orange",
+        "price": 0.83,
+        "image": "008-orange-1.png"
+      },
+      {
+        "id": 9,
+        "name": "Papaya",
+        "price": 2,
+        "image": "009-papaya.png"
+      },
+      {
+        "id": 10,
+        "name": "Corn",
+        "price": 0.3,
+        "image": "010-corn.png"
+      },
+      {
+        "id": 11,
+        "name": "Garlic",
+        "price": 0.2,
+        "image": "011-garlic.png"
+      },
+      {
+        "id": 12,
+        "name": "Carrot",
+        "price": 0.7,
+        "image": "012-carrot-1.png"
+      },
+      {
+        "id": 13,
+        "name": "Peas",
+        "price": 0.9,
+        "image": "013-peas.png"
+      },
+      {
+        "id": 14,
+        "name": "Berries",
+        "price": 1.7,
+        "image": "014-berries.png"
+      },
+      {
+        "id": 15,
+        "name": "Grenade",
+        "price": 3,
+        "image": "015-grenade.png"
+      },
+      {
+        "id": 16,
+        "name": "Artichoke",
+        "price": 4,
+        "image": "016-artichoke.png"
+      },
+      {
+        "id": 17,
+        "name": "Cabbage",
+        "price": 1,
+        "image": "017-cabbage.png"
+      },
+      {
+        "id": 18,
+        "name": "Coconut",
+        "price": 4,
+        "image": "018-coconut.png"
+      },
+      {
+        "id": 19,
+        "name": "Watermelon",
+        "price": 3.85,
+        "image": "019-watermelon-1.png"
+      },
+      {
+        "id": 20,
+        "name": "Melon",
+        "price": 1.5,
+        "image": "020-melon.png"
+      }
+    ]
+  }
+]
