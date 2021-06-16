@@ -17,7 +17,7 @@ const appendData = (data) =>{
       const div = document.createElement("div");
       const pic = document.createElement("img");
 
-      div.innerHTML = "Name: " + data[i].name;
+      div.innerHTML = data[i].name;
       div.className = "col";
       pic.src = "../resources/img/" + data[i].image;
       pic.className = "produtcs-icon";
